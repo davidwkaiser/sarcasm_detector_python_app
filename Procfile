@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn sarcasm_detector_python_app.wsgi
