@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sarcasm_detector_python_app.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sarcasm_detector_python_app_main.settings')
 
 application = get_asgi_application()
