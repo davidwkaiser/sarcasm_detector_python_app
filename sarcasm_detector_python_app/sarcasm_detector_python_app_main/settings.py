@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'sarcasm_detector_python_app.urls'
+ROOT_URLCONF = 'sarcasm_detector_python_app_main.urls'
 
 TEMPLATES = [
     {
