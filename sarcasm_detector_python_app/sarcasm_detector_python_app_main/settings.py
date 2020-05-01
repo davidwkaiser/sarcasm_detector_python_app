@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'sarcasm_detector_python_app.wsgi.application'
+WSGI_APPLICATION = 'sarcasm_detector_python_app_main.wsgi.application'
 
 
 # Database
